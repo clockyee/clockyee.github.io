@@ -53,25 +53,25 @@ interests:
   - Artificial Intelligence
   - LLM
 
-education:
-  - area: PhD 
-    institution: Tianjin University
-    date_start: 2023-09-01
-    date_end: recent
-    summary: |
-      Research Focus: Intelligent Design of Robotic Mechanisms
-  - area: BEng Computer Science and Technology
-    institution: Tianjin University
-    date_start: 2019-09-01
-    date_end: 2023-07-01
-    summary: |
-      Thesis: Intelligent Content Generation for Social Media Opinion Dissemination
-  - area: BEng Intelligent Manufacturing Engineering
-    institution: Tianjin University
-    date_start: 2019-09-01
-    date_end: 2023-07-01
-    summary: |
-      Thesis: Design, Control, and Dynamic Identification of Aerial Refueling Robot
+# education:
+#   - area: PhD 
+#     institution: Tianjin University
+#     date_start: 2023-09-01
+#     date_end: recent
+#     summary: |
+#       Research Focus: Intelligent Design of Robotic Mechanisms
+#   - area: BEng Computer Science and Technology
+#     institution: Tianjin University
+#     date_start: 2019-09-01
+#     date_end: 2023-07-01
+#     summary: |
+#       Thesis: Intelligent Content Generation for Social Media Opinion Dissemination
+#   - area: BEng Intelligent Manufacturing Engineering
+#     institution: Tianjin University
+#     date_start: 2019-09-01
+#     date_end: 2023-07-01
+#     summary: |
+#       Thesis: Design, Control, and Dynamic Identification of Aerial Refueling Robot
 
 
 # work:
