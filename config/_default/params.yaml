@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Yi Zhang | 张旖"
+      text: "Yi Zhang"
 
 # Site footer
 footer:
