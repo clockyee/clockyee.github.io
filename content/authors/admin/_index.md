@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'zhangyi_@tju.edu.cn'
-    label: E-mail Me
+    label: E-mail Me 
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -53,13 +53,13 @@ interests:
   - Artificial Intelligence
   - LLM
 
-# education:
-#   - area: PhD 
-#     institution: Tianjin University
-#     date_start: 2023-09-01
-#     date_end: recent
-#     summary: |
-#       Research Focus: Intelligent Design of Robotic Mechanisms
+education:
+  - area: PhD 
+    institution: Tianjin University
+    date_start: 2023-09-01
+    date_end: recent
+    summary: |
+      Research Focus: Intelligent Design of Robotic Mechanisms
 #   - area: BEng Computer Science and Technology
 #     institution: Tianjin University
 #     date_start: 2019-09-01
@@ -170,4 +170,4 @@ languages:
 
 ## About Me
 
-Yi Zhang (pronounced "Jahng(张) Ee(旖)") is a second-year PhD student at the School of Mechanical Engineering, Tianjin University, under the supervision of Professor Tao Sun ([Chinese homepage](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1879)). Yi holds dual Bachelor's degrees in Computer Science and Technology, as well as in Intelligent Manufacturing Engineering from Tianjin University. Her primary research interests are in robotic intelligent design and reinforcement learning
+Yi Zhang (pronounced "Jahng(张) Ee(旖)") is a second-year PhD student at the School of Mechanical Engineering, Tianjin University, under the supervision of Professor Tao Sun ([Chinese homepage](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1879)). Yi holds dual Bachelor's degrees in Computer Science and Technology, as well as in Intelligent Manufacturing Engineering from Tianjin University. Her primary research interests are in robotic intelligent design and reinforcement learning. Email: zhangyi_@tju.edu.cn
