@@ -153,7 +153,7 @@ awards:
     awarder: Tianjin University
   - title: ASME Student Design Competition (SMRDC)
     url: https://sites.google.com/view/2022smrdc/home
-    date: '2022'
+    date: '2022-08-31'
     awarder: ASME
     # icon: coursera
     summary: |
@@ -163,10 +163,10 @@ awards:
     date: '2023-08-25'
     awarder: Ministry of Education of the People's Republic of China
   - title: 'National Scholarship'
-    date: '2021'
+    date: '2021-11-31'
     awarder: Ministry of Education of the People's Republic of China  
   - title: 'National Scholarship'
-    date: '2020'
+    date: '2020-12-12'
     awarder: Ministry of Education of the People's Republic of China
 ---
 
