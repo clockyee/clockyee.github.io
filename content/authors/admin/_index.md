@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yi Zhang|张旖
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ee Jahng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yi
+last_name: Zhang
 
 # Status emoji
 status:
@@ -20,36 +20,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Tianjin University (TJU)
+    url: https://www.tju.edu.cn/english/index.htm
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zhangyi_@tju.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
+  - Robotics
+  - Mechanism Design
+  - Embodied Intelligence
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - LLM
 
 education:
   - area: PhD Artificial Intelligence
