@@ -54,19 +54,19 @@ interests:
   - LLM
 
 education:
-  - area: *PhD* 
+  - area: PhD 
     institution: Tianjin University
     date_start: 2023-09-01
     date_end: 2028-07-01
     summary: |
       Research Focus: Intelligent Design of Robotic Mechanisms
-  - area: *BEng*: Computer Science and Technology
+  - area: BEng Computer Science and Technology
     institution: Tianjin University
     date_start: 2019-09-01
     date_end: 2023-07-01
     summary: |
       Thesis: Intelligent Content Generation for Social Media Opinion Dissemination
-  - area: *BEng*: Intelligent Manufacturing Engineering
+  - area: BEng Intelligent Manufacturing Engineering
     institution: Tianjin University
     date_start: 2019-09-01
     date_end: 2023-07-01
