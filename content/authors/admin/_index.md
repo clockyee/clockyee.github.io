@@ -54,19 +54,19 @@ interests:
   - LLM
 
 education:
-  - area: PhD 
+  - area: *PhD* 
     institution: Tianjin University
     date_start: 2023-09-01
     date_end: 2028-07-01
     summary: |
       Research Focus: Intelligent Design of Robotic Mechanisms
-  - area: BEng Computer Science and Technology
+  - area: *BEng*: Computer Science and Technology
     institution: Tianjin University
     date_start: 2019-09-01
     date_end: 2023-07-01
     summary: |
       Thesis: Intelligent Content Generation for Social Media Opinion Dissemination
-  - area: BEng Intelligent Manufacturing Engineering
+  - area: *BEng*: Intelligent Manufacturing Engineering
     institution: Tianjin University
     date_start: 2019-09-01
     date_end: 2023-07-01
@@ -134,11 +134,11 @@ education:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -170,4 +170,4 @@ languages:
 
 ## About Me
 
-Yi Zhang (pronounced "Jahng(张) Ee(旖)") is a second-year PhD student at the School of Mechanical Engineering, Tianjin University, under the supervision of Professor Tao Sun ([Chinese homepage](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1879)). Yi holds dual Bachelor's degrees in Computer Science and Technology, as well as in Intelligent Manufacturing Engineering from Tianjin University. Her primary research interests are in robotic intelligent design and reinforcement learning. Email: zhangyi_@tju.edu.cn
+Yi Zhang (pronounced "Jahng(张) Ee(旖)") is a second-year PhD student at the School of Mechanical Engineering, Tianjin University, under the supervision of Professor Tao Sun ([Chinese homepage](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1879)). I hold dual Bachelor's degrees in Computer Science and Technology, as well as in Intelligent Manufacturing Engineering from Tianjin University. My primary research interests are in robotic intelligent design and reinforcement learning. Email: zhangyi_@tju.edu.cn
